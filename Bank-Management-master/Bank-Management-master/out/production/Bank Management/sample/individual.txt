@@ -1,0 +1,16 @@
+123
+amit
+485.0
+123
+deposit From admin to 123 credit 500.0
+withdrawal 5.0
+deposit From 123 to 124 credit 5.0
+withdrawal 5.0
+deposit From 123 to 124 credit 5.0
+withdrawal 5.0
+deposit From 123 to 124 credit 5.0
+withdrawal 5.0
+deposit From 123 to 124 credit 5.0
+withdrawal 5.0
+deposit From 123 to 124 credit 5.0
+bonus 10.0
